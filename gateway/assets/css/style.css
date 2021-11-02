@@ -1,0 +1,18 @@
+html {
+  overflow: hidden;
+}
+body {
+  font: 14px "Poppins", Helvetica, Arial, sans-serif;
+}
+.error-block {
+  padding: 50px;;
+}
+.text-lightblue {
+  color: #6699ff;
+}
+.text-white {
+  color: #ffffff;
+}
+.text-black {
+  color: #000000;
+}

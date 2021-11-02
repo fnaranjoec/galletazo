@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "meshmorph",
+  "private_key_id": "ca752f925eb89914f77a6eedfc0c63bd1f694543",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7LoQ2q+Ug0jsh\nfu1Gc2+rUZuGtCFr9kR+g4rTNCwQ92Cu/PFU/qvOFt2hlQsiFJapd06ky/UC2LXZ\nP21g8IlpwD687H6CA8tRDk0itFbc1icBwhb1ymx/2sTjDisiU+Aa+PBQOoCwCx+N\nBTgN6vAJ57LfW+jzmx93ll86muk4QvQ+zI5dRnDu6MM4gpLO9RcOFhQiJeNxOZCv\nCGWdkKJ/0W6ZYkkaCy2p/JE2HNLdkpbbBcICcSo5+zkiTgHi3DYhEBKPLUz8hKBg\n1K0Jl5pl7IVb195TslJu5US/Xj/f3rjxTtEmCgITyIA4OpehkU44Gjyc3+ItG32w\njjf8NRjzAgMBAAECggEAFfB2U7gjI40wnBT19695E8H9cjTzw+U6EwAVCftP/O8Z\n2HjSSo2NEptQf+tpwiVaoWNYBu3W+m3vJpcOGXIoEQqU7+ziSRfrwUTlWp97nOfG\n66hVq5p9zCCWuixDdwMQveiWtjidM8Uh/hPyBYOXffm32AE8VS1F62znHYXhtxPC\nRcI5qtq4vz2G857jMxvRD2Kc34+tbehkDif0mYQJ0d/LJM6amhxDgP2dxZoFgD3k\n5eKHjMH24Y0XUuj1lKjtsPRV4l3gfwtjGxdBmnkUqq+eXgj9m5m6Wo/NXz67Fi4U\nZ2YIVSqJjiwkzwAyrU0fJ+WzkYbs6YE0lEEE0QSjNQKBgQD1/rXohX8t/cLR+WYp\nq3R7zryOz+taRToF6OrOV5UIORTuqoJ5SudRsH0PrnLNQjaZZLdknph92azSMhui\ntl4PgPL+eJ3Rmt0v37DmF5/kkvbO/7doaZOOxCkMMkSJ+ZMMtTxrCwGutfkf6XN3\n86kSg+gBlBNz98nfnM008yI/1QKBgQDCy3HVHUS7zZAMb7CwDuwpw00uZigKLVqb\n3nXhvjzyAxiDtlxB1GkCNWprAqnm3uqTAcgCiBJ5XnUhzT6Ax6mDmDKUY8DcNxU6\nzIvZrxMVZYFIhrTgeVkBJTCAGi+lLCjkuW7OcfyNzExrSLqR/YgaefZcL9uYoroT\n30cREJchpwKBgQCsMHjApAFb/g7Kz5pVfLByoUmXZa7GZ0KwNFN30BJ/yQT/8taV\ndHrq0XEY8vFk//4b7UX55pGzNhUkpPJ3ONQqYga1XVSLDa3Z/uhihxLi+oRMbO7C\n5XPmMSTSZrVXJx1pfcsm2nN5CeOyFMVAp4wna7GQuUfMmxvxrF5vu+izaQKBgQCR\nTBcYk8BVJTuxSw5MBJV7gUXsuh5bmQDhCsp7G99x1YVPmZKvN7UsBJPgRhhdMSFf\njhCWctD03tQX5nQcstFqavgvX0jX+e5H8ZLPSJu/dfs9Ed2RInKVPBw1MVMgrRPD\np91S+Asd6amGzLT9eFMxDJAKq1ftPlP1xrHHtMxGOQKBgC2hfEB79PTcJagymsXS\nbOjxz1WrHL5geXbnmfPxzaEp5bLv820NUyIKDpao10nzAQA8pkgr1nvN59gMTW8L\n+VEDDjmbNDpd8AjXqPFCTlSn9UcySeIJDeV4QZKLJHRZGUO8LT0doEvaa1xWpbuE\nb1hObghtbKs4VqcSC3FTVtjb\n-----END PRIVATE KEY-----\n",
+  "client_email": "docker-pull@meshmorph.iam.gserviceaccount.com",
+  "client_id": "106496057838869767822",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/docker-pull%40meshmorph.iam.gserviceaccount.com"
+}

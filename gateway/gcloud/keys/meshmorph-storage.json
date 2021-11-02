@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "meshmorph",
+  "private_key_id": "d3ca8851bede9412b86cce79300dcd9284b602be",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFrmhN1te/ll2y\nucc8DHm/nbZN3BrOgJZtbyl/i7459u2ZDd/e5mJXheQn0KZss87y3bx/dK37EJHj\nejUopS1fo6/DjPD0yKhT27nasytJikkv+WPd2fNHs034JqvGienf8sFxXIBHmCY7\nVp/ebxD0Ox2MrdX20/dhtov9oj39o4X9hDlhz3gLOMUDqXI2bmk6h3Q6d+VSHoek\navGWHqYgNHmHyGDVjvM28tnS8Ll5dKj4FxjuAQH6UTnk1xkfEkjri6Q1lE92S1LM\nkoAVI/W5MV1MgnZ5H2RfKbOY8kmaV538LBxcPwR4bkjIH8NeS7G7KIEagMlrB8IO\npr6gnEbDAgMBAAECggEAHgbuKLYJLedmZ9GzXeoxNiDRLRt8EOuprd7Jnr+jJK/e\n4GBMpfw4aj4CwuTShXF8mRnYWkM8HYZN+rqN8j9rgyWx0Dzg6aBvJ9RuSIuYTYKN\nYmr54fGLdCkxdI+p3lha5526sir7AKUFAv9sp5TBrloqahDfuYScr5bTGzLhQrJR\n6Dg6GZ6+6JWvV5XQun0hZra6urBDkjetaJvnRFtaTrkYm2tcdTNyf8jy4MPmJMNS\nU6wuxuQqm0kzdgqCMPOv9LiBFO8BChheNWmFVpDDYOG5SLskOCX+aZqny79AnEz4\nu2Q2/MXKphxs1NZdIeWHLnGJkubGfuR1zYbZtpb/HQKBgQDjHpKsRS0NioEq7lHA\nqdROj3aoF8kHXnD7YJcQERLM1sD7gvLTRI9npcx0/aVy7/4ARxZEE9nWDgCvhOYx\n2iE3eQIiGuGcxGtjfMv0uSzsD7+uN8lN0+TlVrvQCYNlIls+/ihSdH3Gv3utS+Dy\nECN4PO1nNT+ae0Vg+uCxPo0nzQKBgQDe0YiOiwQzcdEKlI5p6upQ0DR3mIKnfWT1\n+O8n9mDp4Eze9+dxFYvGRV/YBwfQ2w62QtkN3OtAxGvDZxYsSK2MaVuFHEKegU24\n2+oDa+OmMlh9nOEdR642inYS0PPQd/8fMamraACwbFvaKWVR2oh+yk+NuhgMePxw\n9iqHFhV4zwKBgEekgD3pQFHyK9agAJfWuorhhFt3zUkOyHLzQBOoXxbQc2WjI/fy\nu43FZh5NWKBOBgCOa/6jiGaWWi8DrB1zomC+QicB9cMezoU+e5PByeLZAOzy2gQ7\n4Atb9bilF5aSZNgVEiEYcAh+pIPA2L9iyd2G0pho2pxfYD48RR6EDcDNAoGBALEW\nKsfPKJmSXadhBgacE3oC35Alf8GJ4VG0dK54G/IEuFOFB0ZS73G29UOF4upVD04/\ntq5T5AznjxYPugmcAYJUwc369d9vuMuwzD3H43fVD4tVwXw52fWy+cBenUgT9ole\nORDnaZTNqfqrZ8E0Q8MxGyTyv+Y5ybgljQsrvAj1AoGANuorAjnwvcAspqvQO4zc\n3CuvzBsRXZkvXYnuaHtUX0jWO5HW7zI1qdtU8HCaP8XTPucYYxDKWcjj2pPY3/yD\nsS/cioryB8l/0pV6FBhCZYrmhePzxVviNbkmNjlWU/eX4Q5lkG5oPtWAnFPv7AjU\nAnC9RnUUJZ2tCA6q1nB6/Ck=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mm-storage-access@meshmorph.iam.gserviceaccount.com",
+  "client_id": "103476865576549319265",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mm-storage-access%40meshmorph.iam.gserviceaccount.com"
+}

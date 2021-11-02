@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "meshmorph",
+  "private_key_id": "f91cd9c2c4c9911e5c87bdbb49cc16a92e24ec73",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQD3hFANJJjh+D\nJf306Q5cSzVjVLxoUzpOIfwSlMxua9l3ih2cjge1djwTr/TmJFu9zhNfulM+q9X2\n7lIvc8Res1peJ1mzLmPcehCURcQUS6myaiwcxqKj+lfBHGxZwSELjGa5dKwi4aLE\nhITYXlTy3XzRn4U5cO1tyGT6lAeHopY9QmBTjNqoPkj6pfhigswmlZGimBkfr53O\nNY6uJVgsPiS8fDTo+zVbMrm/PSomjqv7q+8M1NDs4AelffyFb+JSjVGdBXEekUct\n2RKsgURA4BmFZQGFB9OmnNNTyOKtC4YR4pq83YFAgGQV+Eo6SK7CDV9wrWeBeeyh\npHMAYqE9AgMBAAECggEAIsdjOE2h2S/LrrWMFQNcJitgOkFw2ROIfIULyONcpNyc\nVnIc7w2C1l90PWo9SrcrKrgm3uqbfa9lrcg6rrnwSlA6u+BiCySnBrTUzqQ22Zmo\nPS2oQAsoJrbzMlGY/wvchTyr8zZAi/ghqC3qsuxZ0NsbQUMkFuz8k0xbLNPPymki\nsxG1EV35wprSAdo1B6wJgIgXGI7AI22yxHbK22FWCSMlf2b3GCGy9YM3lADo0Sas\noMzZigxZQkcJxojJHOdbIzBqwTzaBiIVjqaZBbBp3R9JHQI3ef/0+x3K2e28u7Do\nVAIhoFxXPT3R4Yp1HC6isU77MZfUJYwf6GNFryH64QKBgQD8VN6sVzi/WfXjjLMK\nD70WmTQ+mjzxYg8JW1XSmjQCrCZ+sxzndrfLo8BTU2cKmiutN1U7+eZZ1uBaJsXL\nV9rSWVzdra36HXl3RLMXy628OAch7Q/51GbT8IP6JXy9IGVrQVAsc+dq9ZaJ4j5Q\nBOqr7A+OpbswO/qk8trqq/BwlQKBgQDTFdTTcAwnEeKu1kiUH9nlNdoZveKC/Wc6\nu+MLpJyLQoM4tO6D8GMTLcGvyukmNPpJcOcPo2Wo6nrf0SZbzyPRizp0sNcwpIFT\nzskHR7Tz4+YSQF22MxWJgzrBrcgBtzv9HZVQSrzwAG/v2ycRocdhvGkobxWx8ka3\n0Ly5mqz8CQKBgGo5PCgm66+6KkYpo/FXYM2Tnye/fGpNUnEo7v8ihUSevfHWaxOR\nqZvjioJJePZAoqRfx9TgxbUKPRYWfmu0x1yH3A1CIRxKriikVhRtXO0AVRhWGMSe\nQs9zz8tNXq6rZaZ6L0sXW9NuIXpYMM001KmdTYtKf3u1tDUeO0RRL33lAoGATL8f\nRlDy2jGyjYbzlIeQHbpatglIFgA0TDKL9mu/TxK7yx5dqjL4kryMM3I/GtkgNxuJ\npzHtgGDglAfjPnYtu743Xr39P35QVzxT8wWrURGHURN9/wTLy9eewVSB573LXdgn\nta22zDwcdsTji5GagHqUcVMSPESuWZ7XP1RxmKECgYEA1OfbSJDzOmvLAsPCDMZX\n/j8CyzkcHgyCyFeFqDCRepggITgKIChSD3KtTHjiXM8rxUX2bpTpoQeinMJKZ82x\nac4SPikRs91EWP+vz7ilOmcITLJ8WxkKwp/8t48Y8K3D4Qs3zF9d/PKvJGRPuoVH\nw5DY1EkWwn27RAdRX4+obcM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "meshmorph-backend-compute@meshmorph.iam.gserviceaccount.com",
+  "client_id": "114614692845170135015",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/meshmorph-backend-compute%40meshmorph.iam.gserviceaccount.com"
+}
